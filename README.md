@@ -1,4 +1,4 @@
-# mini- RAG system
+# mini-Retrieval Augmented Generation (RAG) system
 
 
 
