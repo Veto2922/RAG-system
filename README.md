@@ -35,4 +35,15 @@ $ cp .env.example .env
 ```
 
 Set your environment variables in the `.env` file, like `OPENAI_API_KEY` value.
+
+
+### Runt the FASTAPI server 
+
+```sh
+$ uvicorn main:app --reload --host 0.0.0.0 --port 5000
 ```
+
+### POSTMAN Collection
+
+Download the POSTMAN collection from assets\RAG_system.postman_collection.json
+
